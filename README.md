@@ -46,7 +46,6 @@ This portfolio documents the completion of five mandatory modules designed to bu
 
 ## 🔗 Quick Links
 * **GitHub Repository:** [Digital-literacy-Project](https://github.com/utkarshiscodingg/Digital-literacy-Project)
-* **LinkedIn Profile:** [Insert your LinkedIn Link Here]
 
 ---
 **Digital Literacy | Cyber Security | Student Ambassador**
